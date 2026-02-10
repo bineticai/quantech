@@ -13,7 +13,7 @@
 ## Installation
 
 ```bash
-go install github.com/binetic-ai/quantech-drive/cmd/quantech@latest
+go install github.com/bineticai/quantech/cmd/quantech@latest
 ```
 
 ## Quick Start
